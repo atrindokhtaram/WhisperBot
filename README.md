@@ -1,4 +1,4 @@
-<h1 align="center">WhisperBot</h1>
+<h1 align="center">Whisper Bot</h1>
 
 <p align="center">
   <a href="https://github.com/bisnuray/WhisperBot/stargazers"><img src="https://img.shields.io/github/stars/bisnuray/WhisperBot?color=blue&style=flat" alt="GitHub Repo stars"></a>
